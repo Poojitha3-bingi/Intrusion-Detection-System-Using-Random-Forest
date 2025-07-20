@@ -1,11 +1,11 @@
 This project implements an Intrusion Detection System (IDS) using the Random Forest algorithm to classify network traffic as normal or malicious. It uses PCA for dimensionality reduction and scikit-learn for building an efficient, accurate, and scalable detection model.
 
-📘 Overview
+# 📘 Overview
 This project analyzes network traffic and classifies it as either normal or malicious based on extracted features. The model is trained and evaluated on the NSL-KDD dataset, a widely used benchmark for network-based anomaly detection.
 
 
 
-🧠 Key Features
+# 🧠 Key Features
 ✅ Supervised learning using Random Forest Classifier
 
 📊 Trained and tested on the NSL-KDD dataset
@@ -22,7 +22,7 @@ This project analyzes network traffic and classifies it as either normal or mali
 
 
 
-📊 Dataset
+# 📊 Dataset
 Dataset Used: NSL-KDD
 
 Source: NSL-KDD Dataset – UNB
@@ -43,7 +43,7 @@ U2R (User to Root)
 
 
 
-🎯 Model Performance
+# 🎯 Model Performance
 Class-wise Metrics
 Metric	Normal Class	Attack Class
 Precision	99.8%	9.5%
@@ -61,7 +61,7 @@ F1 Score	98.9%
 
 
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 💻 Python
 
 📚 Libraries:
